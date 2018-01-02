@@ -1,0 +1,8 @@
+c:\users\pareeka2\documents\visual studio 2015\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe.config
+c:\users\pareeka2\documents\visual studio 2015\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+c:\users\pareeka2\documents\visual studio 2015\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.ProjectInstaller.resources
+c:\users\pareeka2\documents\visual studio 2015\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.FileWatcherService.resources
+c:\users\pareeka2\documents\visual studio 2015\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.GenerateResource.Cache
+c:\users\pareeka2\documents\visual studio 2015\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
